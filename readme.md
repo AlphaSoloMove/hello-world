@@ -3,9 +3,7 @@
 Hello World in every computer language
 
 As I watch the collection exhis project has blown up more than I ever thought pos
-Thanks to everyone who continues to contribute; new languages are created every 
-ttt
-Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
+Thanks to everyone who continues to contribute; new languages are createdproject!
 
 <!--Languages start-->
 ## Languages (1006 total)
